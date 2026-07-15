@@ -8,7 +8,6 @@ Each lesson uses its **own branch**. Checkout the branch for the lesson you are 
 
 | Branch | Lesson |
 |--------|--------|
-| `Content` | Content / Custom Post Types (earlier) |
 | `Class-7-Content` | Class 7: Content (`topten-plugin`) |
 | *(more branches as lessons are added)* | |
 
